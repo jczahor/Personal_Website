@@ -1,0 +1,64 @@
+h1{font-style: italic;}
+h2{font-style: bold;}
+body{
+    background-color: orange;
+}
+.ResumeImage{
+    height: 500px;
+    width: 300;
+    margin: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+section{
+    padding: 100px;
+    border: 10px solid black;
+    background-color: blanchedalmond;
+    font-size: larger;
+    display: inline block;
+    width: 400px;
+    height: 400px;
+}
+
+
+.HomerQuote{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 30px;
+   
+}
+
+.marketpic{
+    height: 500px;
+    width: 500px;
+    margin: 50px;
+    display: block;
+    float: right;
+}
+
+.lincoln-park-zoo{
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    
+
+}
+
+.smokedSalmon{
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+
+}
+.fairy-godmother{
+    height: 500px;
+    width: 300;
+    margin: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
